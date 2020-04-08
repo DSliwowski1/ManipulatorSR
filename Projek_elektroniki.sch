@@ -451,4 +451,9 @@ F 3 "" H 5350 5900 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5350 5750 5350 5900
+Text GLabel 7650 4350 0    50   Input ~ 0
+SW3_B
+Wire Wire Line
+	7650 4350 7750 4350
+Connection ~ 7750 4350
 $EndSCHEMATC

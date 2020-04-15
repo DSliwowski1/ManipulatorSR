@@ -205,11 +205,11 @@ Text GLabel 8500 5850 0    50   Input ~ 0
 M3_PWM
 Wire Wire Line
 	8500 4850 8750 4850
-Text GLabel 6950 2950 2    50   Input ~ 0
+Text GLabel 6950 4550 2    50   Input ~ 0
 M1_PWM
-Text GLabel 6950 3950 2    50   Input ~ 0
+Text GLabel 6950 4650 2    50   Input ~ 0
 M2_PWM
-Text GLabel 6950 4050 2    50   Input ~ 0
+Text GLabel 6950 4750 2    50   Input ~ 0
 M3_PWM
 $Comp
 L power:+5V #PWR01
@@ -309,15 +309,15 @@ F 3 "~" H 10050 4510 50  0001 C CNN
 	1    10050 4250
 	1    0    0    -1  
 $EndComp
-Text GLabel 6950 5350 2    50   Input ~ 0
+Text GLabel 7000 2850 2    50   Input ~ 0
 SW3_A
-Text GLabel 6950 5250 2    50   Input ~ 0
+Text GLabel 7000 2950 2    50   Input ~ 0
 SW3_B
-Text GLabel 3850 4650 0    50   Input ~ 0
+Text GLabel 7000 3150 2    50   Input ~ 0
 SW1_B
-Text GLabel 3850 4550 0    50   Input ~ 0
+Text GLabel 7000 2250 2    50   Input ~ 0
 SW2_A
-Text GLabel 3850 4450 0    50   Input ~ 0
+Text GLabel 7000 2350 2    50   Input ~ 0
 SW2_B
 $Comp
 L power:GND #PWR010
@@ -341,7 +341,7 @@ F 3 "" H 9750 3050 50  0001 C CNN
 	1    9750 3050
 	0    1    1    0   
 $EndComp
-Text GLabel 3850 4750 0    50   Input ~ 0
+Text GLabel 7000 3050 2    50   Input ~ 0
 SW1_A
 $Comp
 L MCU_Module:NUCLEO64-F411RE U1
@@ -354,24 +354,6 @@ F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/da
 	1    5450 3750
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6950 2950 6550 2950
-Wire Wire Line
-	6950 3950 6550 3950
-Wire Wire Line
-	6950 4050 6550 4050
-Wire Wire Line
-	6950 5250 6550 5250
-Wire Wire Line
-	6950 5350 6550 5350
-Wire Wire Line
-	3850 4450 4350 4450
-Wire Wire Line
-	3850 4550 4350 4550
-Wire Wire Line
-	3850 4650 4350 4650
-Wire Wire Line
-	3850 4750 4350 4750
 $Comp
 L power:+5V #PWR011
 U 1 1 5E971A77
@@ -587,4 +569,22 @@ F 3 "" H 9150 4600 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	9150 4350 9150 4400
+Wire Wire Line
+	6950 4550 6550 4550
+Wire Wire Line
+	6550 4650 6950 4650
+Wire Wire Line
+	6550 4750 6950 4750
+Wire Wire Line
+	6550 3050 7000 3050
+Wire Wire Line
+	6550 3150 7000 3150
+Wire Wire Line
+	6550 2250 7000 2250
+Wire Wire Line
+	7000 2350 6550 2350
+Wire Wire Line
+	6550 2850 7000 2850
+Wire Wire Line
+	6550 2950 7000 2950
 $EndSCHEMATC

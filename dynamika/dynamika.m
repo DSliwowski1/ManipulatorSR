@@ -133,9 +133,9 @@ V1 = -J1(4,4) * g.' * A01 * r1;
 V2 = -J2(4,4) * g.' * A02 * r2;
 V3 = -J3(4,4) * g.' * A03 * r3;
 
-V = [V1; V2; V3];
+V = V1 + V2 + V3;
 
-D = jacobian(V, q);
+D = jacobian(V, q).';
 
 %%%% Tarcie %%%%
 Ts = 0.492;

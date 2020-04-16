@@ -138,7 +138,7 @@ Wire Wire Line
 	9750 4350 9150 4350
 Wire Wire Line
 	7750 4350 7750 2700
-Text GLabel 9550 2950 0    50   Input ~ 0
+Text GLabel 9600 2950 0    50   Input ~ 0
 SW1_A
 $Comp
 L power:+5V #PWR04
@@ -458,10 +458,7 @@ Wire Wire Line
 Wire Wire Line
 	9650 2700 9650 2950
 Wire Wire Line
-	9550 2950 9650 2950
-Wire Wire Line
 	9650 2950 9750 2950
-Connection ~ 9650 2950
 Wire Wire Line
 	9750 3150 9400 3150
 $Comp
@@ -491,7 +488,7 @@ F 3 "~" H 9400 3250 50  0001 C CNN
 $EndComp
 Connection ~ 9400 3150
 Wire Wire Line
-	9400 3150 9250 3150
+	9400 3150 9300 3150
 $Comp
 L Device:Rotary_Encoder SW1
 U 1 1 5E8E2B49
@@ -587,4 +584,12 @@ Wire Wire Line
 	6550 2850 7000 2850
 Wire Wire Line
 	6550 2950 7000 2950
+Wire Wire Line
+	9300 2700 9300 3150
+Connection ~ 9300 3150
+Wire Wire Line
+	9300 3150 9250 3150
+Wire Wire Line
+	9650 2950 9600 2950
+Connection ~ 9650 2950
 $EndSCHEMATC

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/zasoby">
+        <file>modele/og_1.obj</file>
+        <file>modele/og_2.obj</file>
+        <file>modele/og_3.obj</file>
+        <file>modele/podstawa.obj</file>
+        <file>img/MIcone.png</file>
+    </qresource>
+</RCC>

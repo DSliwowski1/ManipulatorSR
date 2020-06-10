@@ -195,14 +195,14 @@ int main(void)
 	  angle = (float)360/24 * positions;
 	  q3 = angle - 360;
 
-	  pulse_count = htim2.Instance->CNT; // przepisanie wartosci z rejestru timera
-	  positions = pulse_count/4; // zeskalowanie impulsow do liczby stabilnych pozycji walu enkodera
+	  pulse_count = htim2.Instance->CNT; 
+	  positions = pulse_count/4; 
 
 	  angle = (float)360/24 * positions;
 	  q2 = angle - 360;
 
-	  pulse_count = htim1.Instance->CNT; // przepisanie wartosci z rejestru timera
-	  positions = pulse_count/4; // zeskalowanie impulsow do liczby stabilnych pozycji walu enkodera
+	  pulse_count = htim1.Instance->CNT; 
+	  positions = pulse_count/4; 
 
 	  angle = (float)360/24 * positions;
 	  q1 = angle - 360;

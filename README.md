@@ -8,7 +8,8 @@ Głównym założeniem projektu było skonstruowanie manipulatora o trzech stopn
 
 ## Jak to działa?
 
-TBD
+* Film przedstawiający pracę manipulatora: [YouTube](https://www.youtube.com/watch?v=qWZ4Pu-Mfno&t=94s)
+* Manipulator piszący po tablicy: [YouTube](https://www.youtube.com/watch?v=iwTSjGh-M1s)
 
 ## Autorzy
 

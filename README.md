@@ -17,4 +17,4 @@ Głównym założeniem projektu było skonstruowanie manipulatora o trzech stopn
 * **Daniel Ślwiowski** - [GitHub](https://github.com/DSliwowski1)
 * **Jakub Tomaszewski** - [GitHub](https://github.com/TomaszewskiJakub)
 ## Co dalej?
-* Podążanie po trajektorii będącej krzywą
+* Podążanie efektora po trajektorii będącej krzywą.

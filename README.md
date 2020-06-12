@@ -22,7 +22,7 @@ Głównym założeniem projektu było skonstruowanie manipulatora o trzech stopn
 ENGLISH
 # 3DOF RRR Manipulator MRRR
 
-The main goal of the project was to create 3 degrees of freedom (DOF) manipulator (RRR) and to implement input-output decoupling algorithm to it. Project of the construction was created using Autodesk Inventor. The project was later used to calculate kinematics and dynamics of MRRR manipulator. Thanks to that it was possible to implement sterring algorithm (input-output decoupling). Exact coordinates of end-efector can be controled by a computer program, which can be also used to visualize position of real manipulator
+The main goal of the project was to create 3 degrees of freedom (DOF) manipulator (RRR) and to implement input-output decoupling algorithm to it. Project of the construction was created using Autodesk Inventor. The project was later used to calculate kinematics and dynamics of the MRRR manipulator. Thanks to that it was possible to implement sterring algorithm (input-output decoupling). Exact coordinates of end-efector can be controled by a computer program, which can be also used to visualize position of real manipulator
 
 ## How does it work?
 
@@ -33,5 +33,5 @@ The main goal of the project was to create 3 degrees of freedom (DOF) manipulato
 * **Patryk Szelewski** - [GitHub](https://github.com/pszelew)
 * **Daniel Ślwiowski** - [GitHub](https://github.com/DSliwowski1)
 * **Jakub Tomaszewski** - [GitHub](https://github.com/TomaszewskiJakub)
-## What mext?
+## What next?
 * Following curve trajectory.

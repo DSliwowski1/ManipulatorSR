@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1591305852 source:c:\users\patryk\documents\ksi¹¿ki studia\sr\manipulatormrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stdio.h"
+	"matrix.h"
+	"results.h"
+	"pd.h"
+	"trajectory.h"
+
+1590958809 c:\users\patryk\documents\ksi¹¿ki studia\sr\manipulatormrrr\matrix.h
+
+1590959325 c:\users\patryk\documents\ksi¹¿ki studia\sr\manipulatormrrr\results.h
+
+1591278982 c:\users\patryk\documents\ksi¹¿ki studia\sr\manipulatormrrr\pd.h
+
+1590964641 c:\users\patryk\documents\ksi¹¿ki studia\sr\manipulatormrrr\trajectory.h
+
+1590958870 source:c:\users\patryk\documents\ksi¹¿ki studia\sr\manipulatormrrr\matrix.c
+	"matrix.h"
+	<math.h>
+
+1591283969 source:c:\users\patryk\documents\ksi¹¿ki studia\sr\manipulatormrrr\pd.c
+	"pd.h"
+	"stdio.h"
+
+1591009282 source:c:\users\patryk\documents\ksi¹¿ki studia\sr\manipulatormrrr\results.c
+	"results.h"
+
+1590964645 source:c:\users\patryk\documents\ksi¹¿ki studia\sr\manipulatormrrr\trajectory.c
+	<math.h>
+	"trajectory.h"
+
+1591799332 source:c:\users\jakubtomaszewski\documents\moje\politechnikawroc³awska\3 rok\2 semestr\sterowniki robotów\projekt\manipulatormrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stdio.h"
+	"matrix.h"
+	"results.h"
+	"pd.h"
+	"trajectory.h"
+
+1590955210 c:\users\jakubtomaszewski\documents\moje\politechnikawroc³awska\3 rok\2 semestr\sterowniki robotów\projekt\manipulatormrrr\matrix.h
+
+1590955726 c:\users\jakubtomaszewski\documents\moje\politechnikawroc³awska\3 rok\2 semestr\sterowniki robotów\projekt\manipulatormrrr\results.h
+
+1591453482 c:\users\jakubtomaszewski\documents\moje\politechnikawroc³awska\3 rok\2 semestr\sterowniki robotów\projekt\manipulatormrrr\pd.h
+
+1590961042 c:\users\jakubtomaszewski\documents\moje\politechnikawroc³awska\3 rok\2 semestr\sterowniki robotów\projekt\manipulatormrrr\trajectory.h
+
+1590955272 source:c:\users\jakubtomaszewski\documents\moje\politechnikawroc³awska\3 rok\2 semestr\sterowniki robotów\projekt\manipulatormrrr\matrix.c
+	"matrix.h"
+	<math.h>
+
+1591453482 source:c:\users\jakubtomaszewski\documents\moje\politechnikawroc³awska\3 rok\2 semestr\sterowniki robotów\projekt\manipulatormrrr\pd.c
+	"pd.h"
+	"stdio.h"
+
+1591005684 source:c:\users\jakubtomaszewski\documents\moje\politechnikawroc³awska\3 rok\2 semestr\sterowniki robotów\projekt\manipulatormrrr\results.c
+	"results.h"
+
+1590961046 source:c:\users\jakubtomaszewski\documents\moje\politechnikawroc³awska\3 rok\2 semestr\sterowniki robotów\projekt\manipulatormrrr\trajectory.c
+	<math.h>
+	"trajectory.h"
+

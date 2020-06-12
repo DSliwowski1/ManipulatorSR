@@ -1,5 +1,5 @@
 
-![MRRR](/pics/main.jpg)
+![MRRR](/pics/main.JPG)
 
 
 # 3DOF RRR Manipulator MRRR
